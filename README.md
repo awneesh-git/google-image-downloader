@@ -7,7 +7,7 @@ selenium
 
 requests
 
-Ensure ChromeDriver path is set in your system or configured via System.setProperty.
+Ensure ChromeDriver and EdgeDriver path is set in your system or configured via System.setProperty.
 
 Create a downloads/ directory in your project root before running.
 
